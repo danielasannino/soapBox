@@ -1,0 +1,34 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+  font-size: 100%;
+ }
+
+ body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  min-height: 100%;
+ }
+
+ div {
+   color: #FFF;
+   background-color: #5995DA;
+   font-weight: bold;
+   padding: 20px;
+   text-align: center;
+   border: 2px solid #5D6063;
+   border-radius: 5px;
+   box-sizing: border-box;
+ }
+
+ body.landing {
+    background-color: rgb(130, 162, 192);
+ }
+
+ .navbar {
+   padding: 0.5rem;
+ }
